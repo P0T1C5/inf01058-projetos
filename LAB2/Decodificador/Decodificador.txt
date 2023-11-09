@@ -1,0 +1,3 @@
+Pinos:20
+Elementos Logicos:16
+Atraso Crítico:7199 E[2] S[7] RR e FF
